@@ -1,0 +1,106 @@
+body{
+    background-color: #777;
+    width: 960px;
+    margin: 0 auto;
+    
+
+}
+header {
+    padding: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #fff;
+    background: #ebebeb;
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+  }
+  nav{
+    padding: 40px;
+    margin-bottom: 20px;
+    color: #fff;
+    background: #ebebeb;
+    text-align: center;
+    font-size: 18px;
+    color: #777; 
+    
+  }
+  #bigSection{
+    float: left;
+    background-color: #ebebeb;
+    padding: 80px;
+    margin-top: 10px;
+    width: 415px;
+    height: 380px;
+    margin-bottom: 15px;
+    text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      color: #777;
+  }
+  article{
+      background-color: #777;
+      float: left;
+      padding: 105px;
+      width: 336px;
+      height: 220px;
+      margin-left: -65px;
+      
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      color: #ebebeb;
+  }
+  #h1-h2-h3{
+      padding: 60px;
+      background-color: #ebebeb;
+      float: left;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      color: #777;
+      margin-left: -75px;
+      margin-bottom: 10px;
+      width: 370px;
+      
+
+  }
+  #pTag{
+      background-color: #ebebeb;
+      padding: 60px;
+      float: left;
+      width: 370px;
+      margin-left: -75px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      color: #777;
+
+  }
+  
+  footer{
+    padding: 40px;
+    margin-bottom: 20px;
+    color: #fff;
+    background: #ebebeb;
+    text-align: center;
+    font-size: 18px;
+    color: #777; 
+    margin-top: 600px; 
+  }
+  aside{
+      background-color: #ebebeb;
+      padding: 140px;
+      width: 85px;
+      height: 260px;
+      float: right;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      margin-top: 10px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      color: #777;
+  }
+  #full{
+    clear: both;  
+  }
